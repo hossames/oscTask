@@ -1,0 +1,2 @@
+hello world git add . git commit -m Added greeting git push
+hello world
